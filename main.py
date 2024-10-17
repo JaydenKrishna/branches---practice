@@ -1,3 +1,2 @@
-def add_nums();
+def add_nums():
     print(5 + 6)
-    
